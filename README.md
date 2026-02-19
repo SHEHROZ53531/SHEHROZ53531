@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Shahroz&fontAlignY=40&fontSize=60&desc=Mobile%20App%20Developer%20|%20Java%20Programmer%20|%20Machine%20Learning&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Shahroz&fontAlignY=40&fontSize=60&desc=Mobile%20App%20Developer%20|%20Java%20%26%20Python%20Programmer%20|%20Agentic%20AI&descAlignY=60" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=F74387&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shahroz;Mobile+Application+Developer;Flutter+%7C+Dart+%7C+Java;Machine+Learning+Learner;Welcome+to+my+GitHub+Profile!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=F74387&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shahroz;Mobile+Application+Developer;Flutter+%7C+Dart+%7C+Java+%7C+Python;Agentic+AI+Learner;Welcome+to+my+GitHub+Profile!"/>
 </p>
 
 <p align="center">
@@ -17,9 +17,9 @@
 
 # 💫 About Me
 🔭 **Currently working on:** Smart Tracker App and Employee Payroll System  
-🤝 **Looking to collaborate on:** Mobile apps, Java projects, and open-source contributions  
-🌱 **Learning:** Machine Learning, Compiler Construction, and Theory of Automata  
-💬 **Ask me about:** Flutter, Dart, Java, AI, and Web Development (HTML/CSS)  
+🤝 **Looking to collaborate on:** Mobile apps, Java/Python projects, and open-source contributions  
+🌱 **Learning:** Agentic AI, Compiler Construction, and Theory of Automata  
+💬 **Ask me about:** Flutter, Dart, Java, Python, AI, and Web Development (HTML/CSS)  
 ⚡ **Fun fact:** Playing video games on my PS4 helps me recharge after coding!  
 
 ---
@@ -35,7 +35,7 @@
 
 # 💻 Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,html,css,git,github&theme=light"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,python,html,css,git,github&theme=light"/>
 </p>
 
 ---
