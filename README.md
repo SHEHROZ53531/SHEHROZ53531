@@ -16,9 +16,9 @@
 ---
 
 # 💫 About Me
-🔭 **Currently working on:** Smart Tracker App and Employee Payroll System  
+🔭 **Currently working on:** Smart Tracker App and Employee Payroll System and Some Deep Learning Projects
 🤝 **Looking to collaborate on:** Mobile apps, Java projects, and open-source contributions  
-🌱 **Learning:** Machine Learning, Compiler Construction, and Theory of Automata  
+🌱 **Learning:** Artificial intelligence, Machine Learning, Deep learning, Compiler Construction, and Theory of Automata  
 💬 **Ask me about:** Flutter, Dart, Java, AI, and Web Development (HTML/CSS)  
 ⚡ **Fun fact:** Playing video games on my PS4 helps me recharge after coding!  
 
