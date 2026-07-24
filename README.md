@@ -87,5 +87,4 @@
   <img src="https://visitcount.itsvg.in/api?id=SHEHROZ53531&label=Profile%20Views&color=1&icon=5&pretty=true" />
 </p>
 
-is ma header ma java progreammer  jhana lihka wahan ya bhi lihk do python programer kar do 
-also machine learning ki jgah Agentic AI kar do 
+
