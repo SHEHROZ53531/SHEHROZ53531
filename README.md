@@ -1,90 +1,115 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Shahroz&fontAlignY=40&fontSize=60&desc=Mobile%20App%20Developer%20|%20Java%20Programmer%20|%20Machine%20Learning&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,11,20&text=Muhammad%20Shahroz%20Khalid&fontAlignY=40&fontSize=42&desc=AI%20Engineer%20%7C%20Software%20Developer%20%7C%20Data%20Science&descAlignY=62&descSize=18" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=F74387&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shahroz;Mobile+Application+Developer;Flutter+%7C+Dart+%7C+Java;Machine+Learning+Learner;Welcome+to+my+GitHub+Profile!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&color=A855F7&center=true&vCenter=true&width=700&lines=Computer+Science+Undergraduate+%40+Riphah;AI+%2F+ML+Engineer+%7C+Backend+Developer;Flutter+%7C+Python+%7C+Java+%7C+Scikit-learn;Exploring+Agentic+AI+%26+LLMs;Always+building%2C+always+learning+%F0%9F%9A%80"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Student-Passionate-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learner-Curious-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Exploring-Tech-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub-Active-red?style=for-the-badge&logo=github" />
+  <a href="https://shehroz53531.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-shehroz53531.github.io-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/shahroz-khalid-919262332" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:shahrozkhalid397@gmail.com">
+    <img src="https://img.shields.io/badge/Email-shahrozkhalid397@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-# 💫 About Me
-🔭 **Currently working on:** Smart Tracker App and Employee Payroll System and Some Deep Learning Projects
-🤝 **Looking to collaborate on:** Mobile apps, Java projects, and open-source contributions  
-🌱 **Learning:** Artificial intelligence, Machine Learning, Deep learning, Compiler Construction, and Theory of Automata  
-💬 **Ask me about:** Flutter, Dart, Java, AI, and Web Development (HTML/CSS)  
-⚡ **Fun fact:** Playing video games on my PS4 helps me recharge after coding!  
+## 💫 About Me
+
+CS undergraduate at **Riphah International University, Islamabad** with hands-on experience in Software Development, AI/ML, Mobile Applications, and Backend Engineering.
+
+- 🔭 Currently focused on **Agentic AI, LLMs, and Multimodal RAG systems**
+- 🏢 Previously interned at **CodeAlpha** (ML Intern) and **10Pearls** (Data Science Intern)
+- 💻 Proficient in **Python, Java, Flutter, SQL, C++, Dart**
+- 🌱 Actively learning **Deep Learning, React, Node.js**
+- 🎯 Open to opportunities as **AI Engineer / Backend Developer / Software Engineer**
+- ⚡ Fun fact: PS4 gaming sessions are my debugging recovery strategy
 
 ---
 
-# 🌐 Connect with Me
+## 🛠️ Tech Stack
+
 <p align="center">
-  <a href="https://facebook.com/YOUR_FACEBOOK"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,dart,flutter,html,css,sklearn,git,github,vscode,jupyter&theme=dark"/>
 </p>
 
----
-
-# 💻 Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,html,css,git,github&theme=light"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-<p align="center">
-  <a href="https://github.com/SHEHROZ53531/Smart-Tracker-App">
-    <img src="https://img.shields.io/badge/Smart%20Tracker%20App-blueviolet?style=for-the-badge&logo=flutter" alt="Smart Tracker App" />
-  </a>
-  <a href="https://github.com/SHEHROZ53531/EmployeePayrollSystem">
-    <img src="https://img.shields.io/badge/Employee%20Payroll%20System-orange?style=for-the-badge&logo=java" alt="Employee Payroll System" />
-  </a>
-</p>
+**AI / ML:** Scikit-learn · Pandas · NumPy · NLP · Sentiment Analysis · YOLOv8 · TF-IDF  
+**Mobile:** Flutter · Dart · Cross-platform Development  
+**Backend:** Java · JDBC · REST APIs · SQL · Database Integration  
+**Tools:** Git · GitHub · VS Code · Google Colab · Jupyter Notebook  
+**Learning:** Agentic AI · LLMs · Deep Learning · React · Node.js
 
 ---
 
-# 📊 GitHub Stats
+## 💼 Experience
+
+**Machine Learning Intern — CodeAlpha** *(Jan 2026 – Apr 2026)*  
+Built and deployed end-to-end AI/ML projects: language translation desktop app, FAQ chatbot (TF-IDF + NLP), object detection & tracking system (YOLOv8 + ByteTrack), and a customer churn prediction pipeline.
+
+**Data Science Intern — 10Pearls** *(8-Week Internship)*  
+Hands-on exposure to real-world data workflows, exploratory data analysis, and building predictive models using Python and ML libraries in a professional team environment.
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [**ChurnIQ**](https://github.com/SHEHROZ53531) | End-to-end ML pipeline for telco churn prediction — 80% accuracy, 0.84 AUC, interactive dashboard | Python · Scikit-learn · Pandas · NumPy |
+| [**Object Detection & Tracking**](https://github.com/SHEHROZ53531/CodeAlpha_ObjectDetectionTracking) | Real-time multi-object detection and tracking across video streams | Python · YOLOv8 · ByteTrack · OpenCV |
+| [**FAQ Chatbot**](https://github.com/SHEHROZ53531/CodeAlpha_FAQ_Chatbot) | NLP-powered chatbot using TF-IDF vectorization and cosine similarity | Python · TF-IDF · Scikit-learn · NLP |
+| [**Language Translation Tool**](https://github.com/SHEHROZ53531/CodeAlpha_LanguageTranslationTool) | Desktop translation app with RTL support and text-to-speech | Python · CustomTkinter · Pygame · TTS |
+| [**Smart Quiz App**](https://github.com/SHEHROZ53531) | Cross-platform quiz application with real-time scoring | Flutter · Dart |
+| [**Plagiarism Detection**](https://github.com/SHEHROZ53531) | Suffix Array algorithm with O(n log n) optimized text matching | C++ · Python |
+| [**Travel & Tourism System**](https://github.com/SHEHROZ53531) | Desktop booking management system with database integration | Java · JDBC · SQL |
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHEHROZ53531&theme=radical&show_icons=true&hide_border=false&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHEHROZ53531&layout=compact&theme=radical&hide_border=false" height="165"/>
-  <br><br>
-  <img src="https://nirzak-streak-stats.vercel.app?user=SHEHROZ53531&theme=radical&hide_border=false" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SHEHROZ53531&theme=radical&show_icons=true&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHEHROZ53531&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <br><br>
+  <img src="https://nirzak-streak-stats.vercel.app?user=SHEHROZ53531&theme=radical&hide_border=true" height="180"/>
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
+
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SHEHROZ53531&theme=dracula&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SHEHROZ53531&theme=radical&no-bg=true&margin-w=10&column=6"/>
 </p>
 
 ---
 
-# 🔝 Top Contributed Repo
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=SHEHROZ53531&limit=5&theme=radical&combine_all_yearly_contributions=true">
-</p>
+## 🎓 Education
+
+**BS Computer Science** — Riphah International University, Islamabad *(Expected Spring 2027)*  
+Relevant Coursework: Artificial Intelligence · Data Structures · Algorithms · Backend Development
 
 ---
 
-# 🎨 Contribution Graph Art
-<p align="center">
-  <img src="https://github.com/SHEHROZ53531.png?size=250" alt="Contribution Graph" />
-</p>
+## 📜 Certifications
+
+- Mobile Application Development with Flutter
+- Python for Data Science & Artificial Intelligence
+- Java Desktop Application Development
+- Foundations of Automata Theory
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SHEHROZ53531&label=Profile%20Views&color=1&icon=5&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=SHEHROZ53531&label=Profile%20Views&color=6&icon=5&pretty=true" />
 </p>
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer"/>
+</p>
