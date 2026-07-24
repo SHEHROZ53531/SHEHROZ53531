@@ -74,10 +74,10 @@ Hands-on exposure to real-world data workflows, exploratory data analysis, and b
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHEHROZ53531&theme=radical&show_icons=true&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHEHROZ53531&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shehroz53531&theme=radical&show_icons=true&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehroz53531&layout=compact&theme=radical&hide_border=true" height="165"/>
   <br><br>
-  <img src="https://nirzak-streak-stats.vercel.app?user=SHEHROZ53531&theme=radical&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=shehroz53531&theme=radical&hide_border=true" height="180"/>
 </div>
 
 ---
@@ -85,7 +85,7 @@ Hands-on exposure to real-world data workflows, exploratory data analysis, and b
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SHEHROZ53531&theme=radical&no-bg=true&margin-w=10&column=6"/>
+  <img src="https://github-profile-trophy-kannan.vercel.app/?username=shehroz53531&theme=radical&no-bg=true&margin-w=10&column=6"/>
 </p>
 
 ---
@@ -107,7 +107,7 @@ Relevant Coursework: Artificial Intelligence · Data Structures · Algorithms ·
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SHEHROZ53531&label=Profile%20Views&color=6&icon=5&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=shehroz53531&label=Profile%20Views&color=6&icon=5&pretty=true" />
 </p>
 
 <p align="center">
